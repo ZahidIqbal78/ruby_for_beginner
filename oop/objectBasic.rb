@@ -12,7 +12,7 @@ puts st.prepend("well ");
 #chaining methods
 puts "ruby tutorials".prepend("hi ").upcase;
 
-
+# ? <- represents predicate methods
 puts 1.odd?;
 puts 1.even?;
 
